@@ -1,0 +1,17 @@
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.csprojAssemblyReference.cache
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\WindowsFormsApp2.Form3.resources
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.csproj.GenerateResource.cache
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.AssemblyInfoInputs.cache
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.AssemblyInfo.cs
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.csproj.CoreCompileInputs.cache
+C:\Users\liali\source\repos\WindowsFormsApp2\bin\Release\netcoreapp3.1\explorer.exe
+C:\Users\liali\source\repos\WindowsFormsApp2\bin\Release\netcoreapp3.1\explorer.deps.json
+C:\Users\liali\source\repos\WindowsFormsApp2\bin\Release\netcoreapp3.1\explorer.runtimeconfig.json
+C:\Users\liali\source\repos\WindowsFormsApp2\bin\Release\netcoreapp3.1\explorer.runtimeconfig.dev.json
+C:\Users\liali\source\repos\WindowsFormsApp2\bin\Release\netcoreapp3.1\explorer.dll
+C:\Users\liali\source\repos\WindowsFormsApp2\bin\Release\netcoreapp3.1\explorer.pdb
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.dll
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.pdb
+C:\Users\liali\source\repos\WindowsFormsApp2\obj\Release\netcoreapp3.1\explorer.genruntimeconfig.cache
